@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SmartTaskBar.getFile&lt;T&gt;">
+    <Position X="0.75" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACEAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>getFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartTaskBar.user32Interpreter">
+    <Position X="0.5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>user32Interpreter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

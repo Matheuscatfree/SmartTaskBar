@@ -1,0 +1,5 @@
+c:\users\marhe\documents\visual studio 2015\Projects\SmartTaskBar\SmartTaskBar\bin\Debug\SmartTaskBar.exe
+c:\users\marhe\documents\visual studio 2015\Projects\SmartTaskBar\SmartTaskBar\bin\Debug\SmartTaskBar.pdb
+c:\users\marhe\documents\visual studio 2015\Projects\SmartTaskBar\SmartTaskBar\obj\Debug\SmartTaskBar.csprojResolveAssemblyReference.cache
+c:\users\marhe\documents\visual studio 2015\Projects\SmartTaskBar\SmartTaskBar\obj\Debug\SmartTaskBar.exe
+c:\users\marhe\documents\visual studio 2015\Projects\SmartTaskBar\SmartTaskBar\obj\Debug\SmartTaskBar.pdb
